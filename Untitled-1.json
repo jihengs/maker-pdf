@@ -1,0 +1,3800 @@
+{
+    "ParsedResults": [
+        {
+            "TextOverlay": {
+                "Lines": [
+                    {
+                        "LineText": "Case Title",
+                        "Words": [
+                            {
+                                "WordText": "Case",
+                                "Left": 74,
+                                "Top": 95,
+                                "Height": 10,
+                                "Width": 28
+                            },
+                            {
+                                "WordText": "Title",
+                                "Left": 105,
+                                "Top": 95,
+                                "Height": 10,
+                                "Width": 25
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 95
+                    },
+                    {
+                        "LineText": "Wig Master Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Wig",
+                                "Left": 73,
+                                "Top": 112,
+                                "Height": 11,
+                                "Width": 18
+                            },
+                            {
+                                "WordText": "Master",
+                                "Left": 95,
+                                "Top": 112,
+                                "Height": 9,
+                                "Width": 32
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 131,
+                                "Top": 112,
+                                "Height": 9,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 112
+                    },
+                    {
+                        "LineText": "Galeta Limited",
+                        "Words": [
+                            {
+                                "WordText": "Galeta",
+                                "Left": 74,
+                                "Top": 134,
+                                "Height": 8,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 108,
+                                "Top": 134,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 134
+                    },
+                    {
+                        "LineText": "Laila and Deniz (Hereford) Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Laila",
+                                "Left": 74,
+                                "Top": 155,
+                                "Height": 8,
+                                "Width": 22
+                            },
+                            {
+                                "WordText": "and",
+                                "Left": 99,
+                                "Top": 155,
+                                "Height": 8,
+                                "Width": 17
+                            },
+                            {
+                                "WordText": "Deniz",
+                                "Left": 120,
+                                "Top": 155,
+                                "Height": 8,
+                                "Width": 27
+                            },
+                            {
+                                "WordText": "(Hereford)",
+                                "Left": 150,
+                                "Top": 155,
+                                "Height": 10,
+                                "Width": 48
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 202,
+                                "Top": 155,
+                                "Height": 8,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 155
+                    },
+                    {
+                        "LineText": "Tribard Care Services Limited",
+                        "Words": [
+                            {
+                                "WordText": "Tribard",
+                                "Left": 73,
+                                "Top": 176,
+                                "Height": 8,
+                                "Width": 36
+                            },
+                            {
+                                "WordText": "Care",
+                                "Left": 112,
+                                "Top": 176,
+                                "Height": 8,
+                                "Width": 23
+                            },
+                            {
+                                "WordText": "Services",
+                                "Left": 139,
+                                "Top": 176,
+                                "Height": 8,
+                                "Width": 40
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 183,
+                                "Top": 176,
+                                "Height": 8,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 176
+                    },
+                    {
+                        "LineText": "Celloglas Limited",
+                        "Words": [
+                            {
+                                "WordText": "Celloglas",
+                                "Left": 74,
+                                "Top": 197,
+                                "Height": 10,
+                                "Width": 43
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 121,
+                                "Top": 197,
+                                "Height": 8,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 197
+                    },
+                    {
+                        "LineText": "ARJ Construction Limited",
+                        "Words": [
+                            {
+                                "WordText": "ARJ",
+                                "Left": 73,
+                                "Top": 218,
+                                "Height": 8,
+                                "Width": 20
+                            },
+                            {
+                                "WordText": "Construction",
+                                "Left": 97,
+                                "Top": 218,
+                                "Height": 8,
+                                "Width": 59
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 160,
+                                "Top": 218,
+                                "Height": 8,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 218
+                    },
+                    {
+                        "LineText": "Amos Contracting Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Amos",
+                                "Left": 73,
+                                "Top": 239,
+                                "Height": 8,
+                                "Width": 27
+                            },
+                            {
+                                "WordText": "Contracting",
+                                "Left": 104,
+                                "Top": 239,
+                                "Height": 10,
+                                "Width": 54
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 162,
+                                "Top": 239,
+                                "Height": 8,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 239
+                    },
+                    {
+                        "LineText": "GO&C LTD",
+                        "Words": [
+                            {
+                                "WordText": "GO&C",
+                                "Left": 74,
+                                "Top": 260,
+                                "Height": 8,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "LTD",
+                                "Left": 108,
+                                "Top": 260,
+                                "Height": 8,
+                                "Width": 18
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 260
+                    },
+                    {
+                        "LineText": "Jot Air Conditioning Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Jot",
+                                "Left": 73,
+                                "Top": 281,
+                                "Height": 8,
+                                "Width": 15
+                            },
+                            {
+                                "WordText": "Air",
+                                "Left": 90,
+                                "Top": 281,
+                                "Height": 8,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Conditioning",
+                                "Left": 106,
+                                "Top": 281,
+                                "Height": 10,
+                                "Width": 59
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 169,
+                                "Top": 281,
+                                "Height": 8,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 281
+                    },
+                    {
+                        "LineText": "GU20 Investments & Consultancy Limited",
+                        "Words": [
+                            {
+                                "WordText": "GU20",
+                                "Left": 74,
+                                "Top": 302,
+                                "Height": 8,
+                                "Width": 27
+                            },
+                            {
+                                "WordText": "Investments",
+                                "Left": 105,
+                                "Top": 302,
+                                "Height": 8,
+                                "Width": 57
+                            },
+                            {
+                                "WordText": "&",
+                                "Left": 165,
+                                "Top": 302,
+                                "Height": 8,
+                                "Width": 7
+                            },
+                            {
+                                "WordText": "Consultancy",
+                                "Left": 175,
+                                "Top": 302,
+                                "Height": 10,
+                                "Width": 58
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 237,
+                                "Top": 302,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 302
+                    },
+                    {
+                        "LineText": "Rec aimjobs Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Rec",
+                                "Left": 74,
+                                "Top": 323,
+                                "Height": 8,
+                                "Width": 18
+                            },
+                            {
+                                "WordText": "aimjobs",
+                                "Left": 95,
+                                "Top": 323,
+                                "Height": 10,
+                                "Width": 36
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 135,
+                                "Top": 323,
+                                "Height": 8,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 323
+                    },
+                    {
+                        "LineText": "Security Warehouse Limited",
+                        "Words": [
+                            {
+                                "WordText": "Security",
+                                "Left": 74,
+                                "Top": 344,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "Warehouse",
+                                "Left": 115,
+                                "Top": 344,
+                                "Height": 8,
+                                "Width": 54
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 173,
+                                "Top": 344,
+                                "Height": 8,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 344
+                    },
+                    {
+                        "LineText": "Huawen Institute Ltd A",
+                        "Words": [
+                            {
+                                "WordText": "Huawen",
+                                "Left": 74,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "Institute",
+                                "Left": 116,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 37
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 156,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 14
+                            },
+                            {
+                                "WordText": "A",
+                                "Left": 174,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 7
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 365
+                    },
+                    {
+                        "LineText": "Taylor Bray Limited",
+                        "Words": [
+                            {
+                                "WordText": "Taylor",
+                                "Left": 73,
+                                "Top": 386,
+                                "Height": 10,
+                                "Width": 29
+                            },
+                            {
+                                "WordText": "Bray",
+                                "Left": 105,
+                                "Top": 386,
+                                "Height": 11,
+                                "Width": 22
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 130,
+                                "Top": 386,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 386
+                    },
+                    {
+                        "LineText": "Audit Ready Hygiene Solutions Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Audit",
+                                "Left": 73,
+                                "Top": 407,
+                                "Height": 8,
+                                "Width": 25
+                            },
+                            {
+                                "WordText": "Ready",
+                                "Left": 101,
+                                "Top": 407,
+                                "Height": 11,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "Hygiene",
+                                "Left": 135,
+                                "Top": 407,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "Solutions",
+                                "Left": 177,
+                                "Top": 407,
+                                "Height": 8,
+                                "Width": 43
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 224,
+                                "Top": 407,
+                                "Height": 8,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 407
+                    },
+                    {
+                        "LineText": "Ignition Midco g V",
+                        "Words": [
+                            {
+                                "WordText": "Ignition",
+                                "Left": 74,
+                                "Top": 428,
+                                "Height": 11,
+                                "Width": 33
+                            },
+                            {
+                                "WordText": "Midco",
+                                "Left": 111,
+                                "Top": 428,
+                                "Height": 8,
+                                "Width": 28
+                            },
+                            {
+                                "WordText": "g",
+                                "Left": 143,
+                                "Top": 428,
+                                "Height": 8,
+                                "Width": 6
+                            },
+                            {
+                                "WordText": "V",
+                                "Left": 152,
+                                "Top": 428,
+                                "Height": 8,
+                                "Width": 7
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 428
+                    },
+                    {
+                        "LineText": "Scientia Holdings Limited",
+                        "Words": [
+                            {
+                                "WordText": "Scientia",
+                                "Left": 74,
+                                "Top": 449,
+                                "Height": 8,
+                                "Width": 37
+                            },
+                            {
+                                "WordText": "Holdings",
+                                "Left": 115,
+                                "Top": 449,
+                                "Height": 11,
+                                "Width": 41
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 159,
+                                "Top": 449,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 449
+                    },
+                    {
+                        "LineText": "Rethink Professianal Services Limited",
+                        "Words": [
+                            {
+                                "WordText": "Rethink",
+                                "Left": 74,
+                                "Top": 470,
+                                "Height": 8,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "Professianal",
+                                "Left": 113,
+                                "Top": 470,
+                                "Height": 9,
+                                "Width": 57
+                            },
+                            {
+                                "WordText": "Services",
+                                "Left": 175,
+                                "Top": 470,
+                                "Height": 9,
+                                "Width": 40
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 219,
+                                "Top": 470,
+                                "Height": 9,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 470
+                    },
+                    {
+                        "LineText": "Bowie Construction Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Bowie",
+                                "Left": 74,
+                                "Top": 491,
+                                "Height": 8,
+                                "Width": 28
+                            },
+                            {
+                                "WordText": "Construction",
+                                "Left": 106,
+                                "Top": 491,
+                                "Height": 8,
+                                "Width": 59
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 169,
+                                "Top": 491,
+                                "Height": 8,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 491
+                    },
+                    {
+                        "LineText": "Geoffrey Osborne Limited",
+                        "Words": [
+                            {
+                                "WordText": "Geoffrey",
+                                "Left": 74,
+                                "Top": 512,
+                                "Height": 11,
+                                "Width": 40
+                            },
+                            {
+                                "WordText": "Osborne",
+                                "Left": 117,
+                                "Top": 512,
+                                "Height": 9,
+                                "Width": 41
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 161,
+                                "Top": 512,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 512
+                    },
+                    {
+                        "LineText": "ARJ Construction Limited",
+                        "Words": [
+                            {
+                                "WordText": "ARJ",
+                                "Left": 73,
+                                "Top": 533,
+                                "Height": 9,
+                                "Width": 20
+                            },
+                            {
+                                "WordText": "Construction",
+                                "Left": 97,
+                                "Top": 533,
+                                "Height": 9,
+                                "Width": 59
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 203,
+                                "Top": 533,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 533
+                    },
+                    {
+                        "LineText": "GO JO Industries Europe Limited",
+                        "Words": [
+                            {
+                                "WordText": "GO",
+                                "Left": 74,
+                                "Top": 554,
+                                "Height": 9,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "JO",
+                                "Left": 91,
+                                "Top": 554,
+                                "Height": 9,
+                                "Width": 11
+                            },
+                            {
+                                "WordText": "Industries",
+                                "Left": 106,
+                                "Top": 554,
+                                "Height": 9,
+                                "Width": 45
+                            },
+                            {
+                                "WordText": "Europe",
+                                "Left": 161,
+                                "Top": 554,
+                                "Height": 11,
+                                "Width": 34
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 198,
+                                "Top": 554,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 554
+                    },
+                    {
+                        "LineText": "Limited",
+                        "Words": [
+                            {
+                                "WordText": "Limited",
+                                "Left": 122,
+                                "Top": 575,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 575
+                    },
+                    {
+                        "LineText": "Reliance National Insurance Company (Europe) Limited",
+                        "Words": [
+                            {
+                                "WordText": "Reliance",
+                                "Left": 74,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 41
+                            },
+                            {
+                                "WordText": "National",
+                                "Left": 118,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "Insurance",
+                                "Left": 160,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 47
+                            },
+                            {
+                                "WordText": "Company",
+                                "Left": 210,
+                                "Top": 596,
+                                "Height": 11,
+                                "Width": 46
+                            },
+                            {
+                                "WordText": "(Europe)",
+                                "Left": 259,
+                                "Top": 596,
+                                "Height": 11,
+                                "Width": 41
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 304,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 596
+                    },
+                    {
+                        "LineText": "Active Dynamic Limited",
+                        "Words": [
+                            {
+                                "WordText": "Active",
+                                "Left": 73,
+                                "Top": 617,
+                                "Height": 9,
+                                "Width": 29
+                            },
+                            {
+                                "WordText": "Dynamic",
+                                "Left": 106,
+                                "Top": 617,
+                                "Height": 11,
+                                "Width": 41
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 150,
+                                "Top": 617,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 617
+                    },
+                    {
+                        "LineText": "Oldham Wednesday Limited",
+                        "Words": [
+                            {
+                                "WordText": "Oldham",
+                                "Left": 74,
+                                "Top": 638,
+                                "Height": 9,
+                                "Width": 36
+                            },
+                            {
+                                "WordText": "Wednesday",
+                                "Left": 114,
+                                "Top": 638,
+                                "Height": 11,
+                                "Width": 56
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 173,
+                                "Top": 638,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 638
+                    },
+                    {
+                        "LineText": "Edges & Hedges Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Edges",
+                                "Left": 74,
+                                "Top": 659,
+                                "Height": 11,
+                                "Width": 29
+                            },
+                            {
+                                "WordText": "&",
+                                "Left": 107,
+                                "Top": 659,
+                                "Height": 9,
+                                "Width": 6
+                            },
+                            {
+                                "WordText": "Hedges",
+                                "Left": 117,
+                                "Top": 659,
+                                "Height": 11,
+                                "Width": 36
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 157,
+                                "Top": 659,
+                                "Height": 9,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 659
+                    },
+                    {
+                        "LineText": "Leasing Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Leasing",
+                                "Left": 99,
+                                "Top": 680,
+                                "Height": 11,
+                                "Width": 37
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 157,
+                                "Top": 680,
+                                "Height": 9,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 680
+                    },
+                    {
+                        "LineText": "Estates L i mited",
+                        "Words": [
+                            {
+                                "WordText": "Estates",
+                                "Left": 123,
+                                "Top": 701,
+                                "Height": 9,
+                                "Width": 34
+                            },
+                            {
+                                "WordText": "L",
+                                "Left": 161,
+                                "Top": 701,
+                                "Height": 9,
+                                "Width": 5
+                            },
+                            {
+                                "WordText": "i",
+                                "Left": 167,
+                                "Top": 701,
+                                "Height": 8,
+                                "Width": 2
+                            },
+                            {
+                                "WordText": "mited",
+                                "Left": 169,
+                                "Top": 701,
+                                "Height": 9,
+                                "Width": 25
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 701
+                    },
+                    {
+                        "LineText": "nfinite Progress Ltd",
+                        "Words": [
+                            {
+                                "WordText": "nfinite",
+                                "Left": 77,
+                                "Top": 722,
+                                "Height": 9,
+                                "Width": 28
+                            },
+                            {
+                                "WordText": "Progress",
+                                "Left": 108,
+                                "Top": 722,
+                                "Height": 11,
+                                "Width": 42
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 154,
+                                "Top": 723,
+                                "Height": 8,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 722
+                    },
+                    {
+                        "LineText": "Andrew Phillips Limited",
+                        "Words": [
+                            {
+                                "WordText": "Andrew",
+                                "Left": 73,
+                                "Top": 743,
+                                "Height": 9,
+                                "Width": 37
+                            },
+                            {
+                                "WordText": "Phillips",
+                                "Left": 113,
+                                "Top": 743,
+                                "Height": 11,
+                                "Width": 33
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 150,
+                                "Top": 743,
+                                "Height": 9,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 743
+                    },
+                    {
+                        "LineText": "Tree Surgery Limited",
+                        "Words": [
+                            {
+                                "WordText": "Tree",
+                                "Left": 116,
+                                "Top": 765,
+                                "Height": 8,
+                                "Width": 22
+                            },
+                            {
+                                "WordText": "Surgery",
+                                "Left": 141,
+                                "Top": 764,
+                                "Height": 11,
+                                "Width": 37
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 182,
+                                "Top": 764,
+                                "Height": 9,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 764
+                    },
+                    {
+                        "LineText": "Hugh Bankier Limited",
+                        "Words": [
+                            {
+                                "WordText": "Hugh",
+                                "Left": 74,
+                                "Top": 785,
+                                "Height": 11,
+                                "Width": 24
+                            },
+                            {
+                                "WordText": "Bankier",
+                                "Left": 102,
+                                "Top": 785,
+                                "Height": 9,
+                                "Width": 36
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 141,
+                                "Top": 785,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 785
+                    },
+                    {
+                        "LineText": "Bon Appetit Group",
+                        "Words": [
+                            {
+                                "WordText": "Bon",
+                                "Left": 74,
+                                "Top": 807,
+                                "Height": 8,
+                                "Width": 18
+                            },
+                            {
+                                "WordText": "Appetit",
+                                "Left": 95,
+                                "Top": 807,
+                                "Height": 10,
+                                "Width": 33
+                            },
+                            {
+                                "WordText": "Group",
+                                "Left": 131,
+                                "Top": 806,
+                                "Height": 11,
+                                "Width": 30
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 806
+                    },
+                    {
+                        "LineText": "B4 Building Services Limited",
+                        "Words": [
+                            {
+                                "WordText": "B4",
+                                "Left": 74,
+                                "Top": 827,
+                                "Height": 9,
+                                "Width": 12
+                            },
+                            {
+                                "WordText": "Building",
+                                "Left": 90,
+                                "Top": 827,
+                                "Height": 11,
+                                "Width": 37
+                            },
+                            {
+                                "WordText": "Services",
+                                "Left": 131,
+                                "Top": 827,
+                                "Height": 9,
+                                "Width": 40
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 175,
+                                "Top": 827,
+                                "Height": 9,
+                                "Width": 33
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 827
+                    },
+                    {
+                        "LineText": "Easyship FS UK Limited",
+                        "Words": [
+                            {
+                                "WordText": "Easyship",
+                                "Left": 74,
+                                "Top": 848,
+                                "Height": 11,
+                                "Width": 42
+                            },
+                            {
+                                "WordText": "FS",
+                                "Left": 120,
+                                "Top": 848,
+                                "Height": 9,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "UK",
+                                "Left": 137,
+                                "Top": 848,
+                                "Height": 9,
+                                "Width": 14
+                            },
+                            {
+                                "WordText": "Limited",
+                                "Left": 154,
+                                "Top": 848,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 848
+                    },
+                    {
+                        "LineText": "Abbitech Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Abbitech",
+                                "Left": 73,
+                                "Top": 869,
+                                "Height": 9,
+                                "Width": 41
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 118,
+                                "Top": 869,
+                                "Height": 9,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 869
+                    },
+                    {
+                        "LineText": "Belgravia Services Ltd",
+                        "Words": [
+                            {
+                                "WordText": "Belgravia",
+                                "Left": 74,
+                                "Top": 891,
+                                "Height": 10,
+                                "Width": 43
+                            },
+                            {
+                                "WordText": "Services",
+                                "Left": 121,
+                                "Top": 890,
+                                "Height": 9,
+                                "Width": 41
+                            },
+                            {
+                                "WordText": "Ltd",
+                                "Left": 165,
+                                "Top": 891,
+                                "Height": 8,
+                                "Width": 14
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 890
+                    }
+                ],
+                "HasOverlay": true,
+                "Message": "Total lines: 39"
+            },
+            "TextOrientation": "0",
+            "FileParseExitCode": 1,
+            "ParsedText": "Case Title\t\r\nWig Master Ltd\t\r\nGaleta Limited\t\r\nLaila and Deniz (Hereford) Ltd\t\r\nTribard Care Services Limited\t\r\nCelloglas Limited\t\r\nARJ Construction Limited\t\r\nAmos Contracting Ltd\t\r\nGO&C LTD\t\r\nJot Air Conditioning Ltd\t\r\nGU20 Investments & Consultancy Limited\t\r\nRec aimjobs Ltd\t\r\nSecurity Warehouse Limited\t\r\nHuawen Institute Ltd A\t\r\nTaylor Bray Limited\t\r\nAudit Ready Hygiene Solutions Ltd\t\r\nIgnition Midco g V\t\r\nScientia Holdings Limited\t\r\nRethink Professianal Services Limited\t\r\nBowie Construction Ltd\t\r\nGeoffrey Osborne Limited\t\r\nARJ Construction Limited\t\r\nGO JO Industries Europe Limited\t\r\nLimited\t\r\nReliance National Insurance Company (Europe) Limited\t\r\nActive Dynamic Limited\t\r\nOldham Wednesday Limited\t\r\nEdges & Hedges Ltd\t\r\nLeasing Ltd\t\r\nEstates L i mited\t\r\nnfinite Progress Ltd\t\r\nAndrew Phillips Limited\t\r\nTree Surgery Limited\t\r\nHugh Bankier Limited\t\r\nBon Appetit Group\t\r\nB4 Building Services Limited\t\r\nEasyship FS UK Limited\t\r\nAbbitech Ltd\t\r\nBelgravia Services Ltd\t\r\n",
+            "ErrorMessage": "",
+            "ErrorDetails": ""
+        },
+        {
+            "TextOrientation": "0",
+            "FileParseExitCode": 1,
+            "ParsedText": "Company Reg\tSIC\tPetitioner Representative\t\r\n13534282\t32990,\t47750,\tLowell Portfoli Messrs Wilkin Chap\t\r\n07527266\t10710\tSEGRO (Pe Gowing WLG\t\r\n13790890\t56101\tScottish\tDLA PIPER UK LLP\t\r\n10731792\t78200\tHMRC\tHMRC\t\r\n06780847\t17290. 18140\t\r\n05537501\t41201\t\r\n09686888\t41100\tHMRC\tHMRC\t\r\n12471082\t47810. 56101. 561\tHMRC\tHMRC\t\r\n05323570\t43220\tHMRC\tHMRC\t\r\n12321218\t41100\tHatters ey-Ho Mishcon de Reya LL\t\r\n126/1348\t78109\tHMRC\tHMRC\t\r\n06265972\t47910\tNorbain Hold Abrahams Dresden\t\r\n08953207\t58142, 85600\tHMRC\tHMRC\t\r\n10469257\t41100\t\r\n1102/359\t81210, 81222, 81\tHSS P\tHCR Legal\t\r\n12645404\t41100\tHCR Legal LLP\t\r\n06579070\t78300\tHMRC\tHMRC\t\r\n06206168\t41202\t\r\n008/3093\t41201, 42110, 43290\t\r\n08548708\t6820g\t\r\n02473045\t46450\t\r\n08636316\t69109\t\r\n01445992\t65120, 65202\t\r\n08742392\t47990\tHMRC\tHMRC\t\r\n12740902\t78300\tHMRC\tHMRC\t\r\n07896855\t81300\tHMRC\tHMRC\t\r\n06638748\t82990\tHMRC\tHMRC\t\r\n06911777\t68100\tHMRC\tHMRC\t\r\n09120901\t82990\tHMRC\tHMRC\t\r\n08597586\tHMRC\tHMRC\t\r\n08514794\t02100, 02200, 02\tHMRC\tHMRC\t\r\n06098182\t62020\tHMRC\tHMRC\t\r\n10366695\t82990\tHMRC\tHMRC\t\r\n12761642\t41201\tHMRC\tHMRC\t\r\n11802594\t53201\tHMRC\tHMRC\t\r\n11783112\t58290. 62011, 6201\tHMRC\tHMRC\t\r\n09888540\tHMRC\tHMRC\t\r\n",
+            "ErrorMessage": "",
+            "ErrorDetails": ""
+        },
+        {
+            "TextOverlay": {
+                "Lines": [
+                    {
+                        "LineText": "Case Type",
+                        "Words": [
+                            {
+                                "WordText": "Case",
+                                "Left": 74,
+                                "Top": 95,
+                                "Height": 10,
+                                "Width": 28
+                            },
+                            {
+                                "WordText": "Type",
+                                "Left": 105,
+                                "Top": 95,
+                                "Height": 12,
+                                "Width": 27
+                            }
+                        ],
+                        "MaxHeight": 12,
+                        "MinTop": 95
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 134,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 134
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 155,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 155
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 176,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 176
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 197,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 197
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 218,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 218
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 239,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 239
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 260,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 260
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 281,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 281
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 302,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 302
+                    },
+                    {
+                        "LineText": "Companies",
+                        "Words": [
+                            {
+                                "WordText": "Companies",
+                                "Left": 74,
+                                "Top": 323,
+                                "Height": 10,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 323
+                    },
+                    {
+                        "LineText": "Corn panies",
+                        "Words": [
+                            {
+                                "WordText": "Corn",
+                                "Left": 74,
+                                "Top": 344,
+                                "Height": 8,
+                                "Width": 21
+                            },
+                            {
+                                "WordText": "panies",
+                                "Left": 96,
+                                "Top": 344,
+                                "Height": 10,
+                                "Width": 31
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 344
+                    },
+                    {
+                        "LineText": "Com n i CS",
+                        "Words": [
+                            {
+                                "WordText": "Com",
+                                "Left": 74,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 21
+                            },
+                            {
+                                "WordText": "n",
+                                "Left": 108,
+                                "Top": 367,
+                                "Height": 6,
+                                "Width": 5
+                            },
+                            {
+                                "WordText": "i",
+                                "Left": 114,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 2
+                            },
+                            {
+                                "WordText": "CS",
+                                "Left": 115,
+                                "Top": 367,
+                                "Height": 6,
+                                "Width": 12
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 365
+                    },
+                    {
+                        "LineText": "Corn pan i e-s",
+                        "Words": [
+                            {
+                                "WordText": "Corn",
+                                "Left": 74,
+                                "Top": 659,
+                                "Height": 9,
+                                "Width": 21
+                            },
+                            {
+                                "WordText": "pan",
+                                "Left": 96,
+                                "Top": 661,
+                                "Height": 8,
+                                "Width": 17
+                            },
+                            {
+                                "WordText": "i",
+                                "Left": 114,
+                                "Top": 659,
+                                "Height": 9,
+                                "Width": 2
+                            },
+                            {
+                                "WordText": "e-s",
+                                "Left": 115,
+                                "Top": 661,
+                                "Height": 7,
+                                "Width": 12
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 659
+                    },
+                    {
+                        "LineText": "ie-S",
+                        "Words": [
+                            {
+                                "WordText": "ie-S",
+                                "Left": 114,
+                                "Top": 723,
+                                "Height": 8,
+                                "Width": 13
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 723
+                    },
+                    {
+                        "LineText": "pan ie-S",
+                        "Words": [
+                            {
+                                "WordText": "pan",
+                                "Left": 96,
+                                "Top": 745,
+                                "Height": 9,
+                                "Width": 17
+                            },
+                            {
+                                "WordText": "ie-S",
+                                "Left": 114,
+                                "Top": 744,
+                                "Height": 8,
+                                "Width": 13
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 744
+                    },
+                    {
+                        "LineText": "pan ieS",
+                        "Words": [
+                            {
+                                "WordText": "pan",
+                                "Left": 96,
+                                "Top": 767,
+                                "Height": 8,
+                                "Width": 17
+                            },
+                            {
+                                "WordText": "ieS",
+                                "Left": 114,
+                                "Top": 765,
+                                "Height": 8,
+                                "Width": 13
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 765
+                    },
+                    {
+                        "LineText": "pan",
+                        "Words": [
+                            {
+                                "WordText": "pan",
+                                "Left": 96,
+                                "Top": 808,
+                                "Height": 9,
+                                "Width": 17
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 808
+                    },
+                    {
+                        "LineText": "CMIIpanies",
+                        "Words": [
+                            {
+                                "WordText": "CMIIpanies",
+                                "Left": 74,
+                                "Top": 848,
+                                "Height": 11,
+                                "Width": 53
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 848
+                    },
+                    {
+                        "LineText": "Corn pan i es",
+                        "Words": [
+                            {
+                                "WordText": "Corn",
+                                "Left": 74,
+                                "Top": 870,
+                                "Height": 8,
+                                "Width": 21
+                            },
+                            {
+                                "WordText": "pan",
+                                "Left": 96,
+                                "Top": 872,
+                                "Height": 8,
+                                "Width": 17
+                            },
+                            {
+                                "WordText": "i",
+                                "Left": 114,
+                                "Top": 870,
+                                "Height": 8,
+                                "Width": 2
+                            },
+                            {
+                                "WordText": "es",
+                                "Left": 115,
+                                "Top": 872,
+                                "Height": 6,
+                                "Width": 12
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 870
+                    },
+                    {
+                        "LineText": "Corn pan i e-s",
+                        "Words": [
+                            {
+                                "WordText": "Corn",
+                                "Left": 74,
+                                "Top": 891,
+                                "Height": 8,
+                                "Width": 21
+                            },
+                            {
+                                "WordText": "pan",
+                                "Left": 96,
+                                "Top": 893,
+                                "Height": 8,
+                                "Width": 17
+                            },
+                            {
+                                "WordText": "i",
+                                "Left": 114,
+                                "Top": 891,
+                                "Height": 8,
+                                "Width": 2
+                            },
+                            {
+                                "WordText": "e-s",
+                                "Left": 115,
+                                "Top": 893,
+                                "Height": 6,
+                                "Width": 12
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 891
+                    },
+                    {
+                        "LineText": "Filed Date Last Updated",
+                        "Words": [
+                            {
+                                "WordText": "Filed",
+                                "Left": 526,
+                                "Top": 95,
+                                "Height": 10,
+                                "Width": 27
+                            },
+                            {
+                                "WordText": "Date",
+                                "Left": 558,
+                                "Top": 95,
+                                "Height": 10,
+                                "Width": 25
+                            },
+                            {
+                                "WordText": "Last",
+                                "Left": 597,
+                                "Top": 95,
+                                "Height": 10,
+                                "Width": 24
+                            },
+                            {
+                                "WordText": "Updated",
+                                "Left": 625,
+                                "Top": 95,
+                                "Height": 12,
+                                "Width": 47
+                            }
+                        ],
+                        "MaxHeight": 12,
+                        "MinTop": 95
+                    },
+                    {
+                        "LineText": "Petit i",
+                        "Words": [
+                            {
+                                "WordText": "Petit",
+                                "Left": 137,
+                                "Top": 112,
+                                "Height": 9,
+                                "Width": 21
+                            },
+                            {
+                                "WordText": "i",
+                                "Left": 159,
+                                "Top": 112,
+                                "Height": 8,
+                                "Width": 1
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 112
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 134,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 134
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 155,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 155
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 176,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 176
+                    },
+                    {
+                        "LineText": "Winding up Petitic*Ä",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 112,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 112,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petitic*Ä",
+                                "Left": 241,
+                                "Top": 112,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 112
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 134,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 134,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 134,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 134
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 155,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 155,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 155,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 155
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 176,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 176,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 176,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 176
+                    },
+                    {
+                        "LineText": "Application - Notice of Intention to appoint an administrator",
+                        "Words": [
+                            {
+                                "WordText": "Application",
+                                "Left": 136,
+                                "Top": 197,
+                                "Height": 10,
+                                "Width": 52
+                            },
+                            {
+                                "WordText": "-",
+                                "Left": 192,
+                                "Top": 202,
+                                "Height": 1,
+                                "Width": 3
+                            },
+                            {
+                                "WordText": "Notice",
+                                "Left": 198,
+                                "Top": 197,
+                                "Height": 8,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "of",
+                                "Left": 231,
+                                "Top": 197,
+                                "Height": 8,
+                                "Width": 10
+                            },
+                            {
+                                "WordText": "Intention",
+                                "Left": 244,
+                                "Top": 197,
+                                "Height": 8,
+                                "Width": 40
+                            },
+                            {
+                                "WordText": "to",
+                                "Left": 287,
+                                "Top": 197,
+                                "Height": 8,
+                                "Width": 9
+                            },
+                            {
+                                "WordText": "appoint",
+                                "Left": 299,
+                                "Top": 197,
+                                "Height": 10,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "an",
+                                "Left": 337,
+                                "Top": 199,
+                                "Height": 6,
+                                "Width": 11
+                            },
+                            {
+                                "WordText": "administrator",
+                                "Left": 352,
+                                "Top": 197,
+                                "Height": 8,
+                                "Width": 62
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 197
+                    },
+                    {
+                        "LineText": "Application - Notice of Appointment to appoint an administrator",
+                        "Words": [
+                            {
+                                "WordText": "Application",
+                                "Left": 136,
+                                "Top": 218,
+                                "Height": 10,
+                                "Width": 52
+                            },
+                            {
+                                "WordText": "-",
+                                "Left": 192,
+                                "Top": 223,
+                                "Height": 1,
+                                "Width": 3
+                            },
+                            {
+                                "WordText": "Notice",
+                                "Left": 198,
+                                "Top": 218,
+                                "Height": 8,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "of",
+                                "Left": 231,
+                                "Top": 218,
+                                "Height": 8,
+                                "Width": 10
+                            },
+                            {
+                                "WordText": "Appointment",
+                                "Left": 242,
+                                "Top": 218,
+                                "Height": 10,
+                                "Width": 61
+                            },
+                            {
+                                "WordText": "to",
+                                "Left": 305,
+                                "Top": 219,
+                                "Height": 7,
+                                "Width": 9
+                            },
+                            {
+                                "WordText": "appoint",
+                                "Left": 317,
+                                "Top": 218,
+                                "Height": 10,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "an",
+                                "Left": 355,
+                                "Top": 220,
+                                "Height": 6,
+                                "Width": 12
+                            },
+                            {
+                                "WordText": "administrator",
+                                "Left": 370,
+                                "Top": 218,
+                                "Height": 8,
+                                "Width": 62
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 218
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 239,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 239
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 260,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 260
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 281,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 281
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 302,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 302
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 323,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 323
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 344,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 344
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 365
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 386,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 386
+                    },
+                    {
+                        "LineText": "Petit i on",
+                        "Words": [
+                            {
+                                "WordText": "Petit",
+                                "Left": 137,
+                                "Top": 407,
+                                "Height": 8,
+                                "Width": 21
+                            },
+                            {
+                                "WordText": "i",
+                                "Left": 159,
+                                "Top": 407,
+                                "Height": 8,
+                                "Width": 1
+                            },
+                            {
+                                "WordText": "on",
+                                "Left": 161,
+                                "Top": 409,
+                                "Height": 6,
+                                "Width": 11
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 407
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 239,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 239,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 239,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 239
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 260,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 260,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 260,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 260
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 281,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 281,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 281,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 281
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 302,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 302,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 302,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 302
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 323,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 323,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 323,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 323
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 344,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 344,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 344,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 344
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 365,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 365,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 365
+                    },
+                    {
+                        "LineText": "Unfair Prejudice",
+                        "Words": [
+                            {
+                                "WordText": "Unfair",
+                                "Left": 182,
+                                "Top": 386,
+                                "Height": 8,
+                                "Width": 28
+                            },
+                            {
+                                "WordText": "Prejudice",
+                                "Left": 214,
+                                "Top": 386,
+                                "Height": 10,
+                                "Width": 44
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 386
+                    },
+                    {
+                        "LineText": "Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 407,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 407,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 407,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 407
+                    },
+                    {
+                        "LineText": "4/26/24",
+                        "Words": [
+                            {
+                                "WordText": "4/26/24",
+                                "Left": 554,
+                                "Top": 112,
+                                "Height": 9,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 112
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 155,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 155
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 176,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 176
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 197,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 197
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 218,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 218
+                    },
+                    {
+                        "LineText": "4Q9/24",
+                        "Words": [
+                            {
+                                "WordText": "4Q9/24",
+                                "Left": 554,
+                                "Top": 260,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 260
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 281,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 281
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 302,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 302
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 323,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 323
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 344,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 344
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 365,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 365
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 386,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 386
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 407,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 407
+                    },
+                    {
+                        "LineText": "4,'29/24",
+                        "Words": [
+                            {
+                                "WordText": "4,'29/24",
+                                "Left": 554,
+                                "Top": 428,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 428
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 449,
+                                "Height": 9,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 449
+                    },
+                    {
+                        "LineText": "4/29/24",
+                        "Words": [
+                            {
+                                "WordText": "4/29/24",
+                                "Left": 554,
+                                "Top": 470,
+                                "Height": 9,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 470
+                    },
+                    {
+                        "LineText": "4/30/24",
+                        "Words": [
+                            {
+                                "WordText": "4/30/24",
+                                "Left": 554,
+                                "Top": 870,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 870
+                    },
+                    {
+                        "LineText": "4/30/24",
+                        "Words": [
+                            {
+                                "WordText": "4/30/24",
+                                "Left": 647,
+                                "Top": 134,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 134
+                    },
+                    {
+                        "LineText": "4/30/24",
+                        "Words": [
+                            {
+                                "WordText": "4/30/24",
+                                "Left": 647,
+                                "Top": 155,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 155
+                    },
+                    {
+                        "LineText": "4/30/24",
+                        "Words": [
+                            {
+                                "WordText": "4/30/24",
+                                "Left": 647,
+                                "Top": 302,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 302
+                    },
+                    {
+                        "LineText": "4/30/24",
+                        "Words": [
+                            {
+                                "WordText": "4/30/24",
+                                "Left": 647,
+                                "Top": 323,
+                                "Height": 8,
+                                "Width": 36
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 323
+                    },
+                    {
+                        "LineText": "4/30/24",
+                        "Words": [
+                            {
+                                "WordText": "4/30/24",
+                                "Left": 647,
+                                "Top": 344,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 344
+                    },
+                    {
+                        "LineText": "4/30/24",
+                        "Words": [
+                            {
+                                "WordText": "4/30/24",
+                                "Left": 647,
+                                "Top": 407,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 407
+                    },
+                    {
+                        "LineText": "4/30/24",
+                        "Words": [
+                            {
+                                "WordText": "4/30/24",
+                                "Left": 647,
+                                "Top": 428,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 428
+                    },
+                    {
+                        "LineText": "Part 8 Claim Scheme Of Arrangement",
+                        "Words": [
+                            {
+                                "WordText": "Part",
+                                "Left": 137,
+                                "Top": 428,
+                                "Height": 8,
+                                "Width": 20
+                            },
+                            {
+                                "WordText": "8",
+                                "Left": 160,
+                                "Top": 428,
+                                "Height": 8,
+                                "Width": 5
+                            },
+                            {
+                                "WordText": "Claim",
+                                "Left": 169,
+                                "Top": 428,
+                                "Height": 8,
+                                "Width": 26
+                            },
+                            {
+                                "WordText": "Scheme",
+                                "Left": 206,
+                                "Top": 428,
+                                "Height": 8,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "Of",
+                                "Left": 247,
+                                "Top": 428,
+                                "Height": 9,
+                                "Width": 10
+                            },
+                            {
+                                "WordText": "Arrangement",
+                                "Left": 258,
+                                "Top": 428,
+                                "Height": 11,
+                                "Width": 62
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 428
+                    },
+                    {
+                        "LineText": "Petition - Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 449,
+                                "Height": 9,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "-",
+                                "Left": 176,
+                                "Top": 454,
+                                "Height": 1,
+                                "Width": 3
+                            },
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 449,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 449,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 449,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 449
+                    },
+                    {
+                        "LineText": "Petition - Winding up Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 470,
+                                "Height": 9,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "-",
+                                "Left": 176,
+                                "Top": 475,
+                                "Height": 1,
+                                "Width": 3
+                            },
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 470,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 470,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "Petition",
+                                "Left": 241,
+                                "Top": 470,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 470
+                    },
+                    {
+                        "LineText": "Application",
+                        "Words": [
+                            {
+                                "WordText": "Application",
+                                "Left": 136,
+                                "Top": 491,
+                                "Height": 11,
+                                "Width": 52
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 491
+                    },
+                    {
+                        "LineText": "Application",
+                        "Words": [
+                            {
+                                "WordText": "Application",
+                                "Left": 136,
+                                "Top": 512,
+                                "Height": 11,
+                                "Width": 52
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 512
+                    },
+                    {
+                        "LineText": "Application",
+                        "Words": [
+                            {
+                                "WordText": "Application",
+                                "Left": 136,
+                                "Top": 533,
+                                "Height": 11,
+                                "Width": 52
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 533
+                    },
+                    {
+                        "LineText": "- Application",
+                        "Words": [
+                            {
+                                "WordText": "-",
+                                "Left": 131,
+                                "Top": 559,
+                                "Height": 1,
+                                "Width": 3
+                            },
+                            {
+                                "WordText": "Application",
+                                "Left": 136,
+                                "Top": 554,
+                                "Height": 11,
+                                "Width": 52
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 554
+                    },
+                    {
+                        "LineText": "- Application",
+                        "Words": [
+                            {
+                                "WordText": "-",
+                                "Left": 131,
+                                "Top": 580,
+                                "Height": 1,
+                                "Width": 3
+                            },
+                            {
+                                "WordText": "Application",
+                                "Left": 136,
+                                "Top": 575,
+                                "Height": 11,
+                                "Width": 52
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 575
+                    },
+                    {
+                        "LineText": "Notice Of Appointment to appoint an administrator",
+                        "Words": [
+                            {
+                                "WordText": "Notice",
+                                "Left": 198,
+                                "Top": 491,
+                                "Height": 8,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "Of",
+                                "Left": 231,
+                                "Top": 491,
+                                "Height": 8,
+                                "Width": 10
+                            },
+                            {
+                                "WordText": "Appointment",
+                                "Left": 243,
+                                "Top": 491,
+                                "Height": 10,
+                                "Width": 59
+                            },
+                            {
+                                "WordText": "to",
+                                "Left": 306,
+                                "Top": 492,
+                                "Height": 7,
+                                "Width": 8
+                            },
+                            {
+                                "WordText": "appoint",
+                                "Left": 317,
+                                "Top": 491,
+                                "Height": 10,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "an",
+                                "Left": 355,
+                                "Top": 493,
+                                "Height": 6,
+                                "Width": 12
+                            },
+                            {
+                                "WordText": "administrator",
+                                "Left": 370,
+                                "Top": 491,
+                                "Height": 8,
+                                "Width": 62
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 491
+                    },
+                    {
+                        "LineText": "Notice Of Appointment to appoint an administrator",
+                        "Words": [
+                            {
+                                "WordText": "Notice",
+                                "Left": 198,
+                                "Top": 512,
+                                "Height": 9,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "Of",
+                                "Left": 231,
+                                "Top": 512,
+                                "Height": 9,
+                                "Width": 10
+                            },
+                            {
+                                "WordText": "Appointment",
+                                "Left": 243,
+                                "Top": 512,
+                                "Height": 10,
+                                "Width": 59
+                            },
+                            {
+                                "WordText": "to",
+                                "Left": 305,
+                                "Top": 513,
+                                "Height": 8,
+                                "Width": 9
+                            },
+                            {
+                                "WordText": "appoint",
+                                "Left": 317,
+                                "Top": 512,
+                                "Height": 11,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "an",
+                                "Left": 355,
+                                "Top": 514,
+                                "Height": 7,
+                                "Width": 12
+                            },
+                            {
+                                "WordText": "administrator",
+                                "Left": 370,
+                                "Top": 512,
+                                "Height": 9,
+                                "Width": 62
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 512
+                    },
+                    {
+                        "LineText": "Notice Of Appointment to appoint an adrninistrator",
+                        "Words": [
+                            {
+                                "WordText": "Notice",
+                                "Left": 198,
+                                "Top": 533,
+                                "Height": 9,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "Of",
+                                "Left": 231,
+                                "Top": 533,
+                                "Height": 9,
+                                "Width": 10
+                            },
+                            {
+                                "WordText": "Appointment",
+                                "Left": 243,
+                                "Top": 533,
+                                "Height": 10,
+                                "Width": 59
+                            },
+                            {
+                                "WordText": "to",
+                                "Left": 306,
+                                "Top": 534,
+                                "Height": 8,
+                                "Width": 8
+                            },
+                            {
+                                "WordText": "appoint",
+                                "Left": 317,
+                                "Top": 533,
+                                "Height": 11,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "an",
+                                "Left": 355,
+                                "Top": 535,
+                                "Height": 7,
+                                "Width": 12
+                            },
+                            {
+                                "WordText": "adrninistrator",
+                                "Left": 370,
+                                "Top": 533,
+                                "Height": 9,
+                                "Width": 62
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 533
+                    },
+                    {
+                        "LineText": "Notice Of Appointment to appoint an administrator",
+                        "Words": [
+                            {
+                                "WordText": "Notice",
+                                "Left": 198,
+                                "Top": 554,
+                                "Height": 9,
+                                "Width": 30
+                            },
+                            {
+                                "WordText": "Of",
+                                "Left": 231,
+                                "Top": 554,
+                                "Height": 9,
+                                "Width": 10
+                            },
+                            {
+                                "WordText": "Appointment",
+                                "Left": 242,
+                                "Top": 554,
+                                "Height": 11,
+                                "Width": 60
+                            },
+                            {
+                                "WordText": "to",
+                                "Left": 306,
+                                "Top": 555,
+                                "Height": 8,
+                                "Width": 8
+                            },
+                            {
+                                "WordText": "appoint",
+                                "Left": 317,
+                                "Top": 554,
+                                "Height": 11,
+                                "Width": 35
+                            },
+                            {
+                                "WordText": "an",
+                                "Left": 355,
+                                "Top": 556,
+                                "Height": 7,
+                                "Width": 12
+                            },
+                            {
+                                "WordText": "administrator",
+                                "Left": 370,
+                                "Top": 554,
+                                "Height": 9,
+                                "Width": 62
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 554
+                    },
+                    {
+                        "LineText": "Administration Application",
+                        "Words": [
+                            {
+                                "WordText": "Administration",
+                                "Left": 197,
+                                "Top": 575,
+                                "Height": 9,
+                                "Width": 68
+                            },
+                            {
+                                "WordText": "Application",
+                                "Left": 267,
+                                "Top": 575,
+                                "Height": 11,
+                                "Width": 52
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 575
+                    },
+                    {
+                        "LineText": "Part g Claim - Scheme Of Arrangement",
+                        "Words": [
+                            {
+                                "WordText": "Part",
+                                "Left": 137,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 19
+                            },
+                            {
+                                "WordText": "g",
+                                "Left": 160,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 5
+                            },
+                            {
+                                "WordText": "Claim",
+                                "Left": 169,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 26
+                            },
+                            {
+                                "WordText": "-",
+                                "Left": 199,
+                                "Top": 601,
+                                "Height": 1,
+                                "Width": 3
+                            },
+                            {
+                                "WordText": "Scheme",
+                                "Left": 205,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 39
+                            },
+                            {
+                                "WordText": "Of",
+                                "Left": 247,
+                                "Top": 596,
+                                "Height": 9,
+                                "Width": 10
+                            },
+                            {
+                                "WordText": "Arrangement",
+                                "Left": 258,
+                                "Top": 596,
+                                "Height": 11,
+                                "Width": 62
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 596
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 617,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 617
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 638,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 638
+                    },
+                    {
+                        "LineText": "petition",
+                        "Words": [
+                            {
+                                "WordText": "petition",
+                                "Left": 137,
+                                "Top": 659,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 659
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 680,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 680
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 701,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 701
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 722,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 722
+                    },
+                    {
+                        "LineText": "petition",
+                        "Words": [
+                            {
+                                "WordText": "petition",
+                                "Left": 137,
+                                "Top": 743,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 743
+                    },
+                    {
+                        "LineText": "petition",
+                        "Words": [
+                            {
+                                "WordText": "petition",
+                                "Left": 137,
+                                "Top": 764,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 764
+                    },
+                    {
+                        "LineText": "petition",
+                        "Words": [
+                            {
+                                "WordText": "petition",
+                                "Left": 137,
+                                "Top": 785,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 785
+                    },
+                    {
+                        "LineText": "petition",
+                        "Words": [
+                            {
+                                "WordText": "petition",
+                                "Left": 137,
+                                "Top": 806,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 806
+                    },
+                    {
+                        "LineText": "petition",
+                        "Words": [
+                            {
+                                "WordText": "petition",
+                                "Left": 137,
+                                "Top": 827,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 827
+                    },
+                    {
+                        "LineText": "Petition",
+                        "Words": [
+                            {
+                                "WordText": "Petition",
+                                "Left": 137,
+                                "Top": 848,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 848
+                    },
+                    {
+                        "LineText": "petition",
+                        "Words": [
+                            {
+                                "WordText": "petition",
+                                "Left": 137,
+                                "Top": 869,
+                                "Height": 9,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 9,
+                        "MinTop": 869
+                    },
+                    {
+                        "LineText": "petition",
+                        "Words": [
+                            {
+                                "WordText": "petition",
+                                "Left": 137,
+                                "Top": 891,
+                                "Height": 8,
+                                "Width": 35
+                            }
+                        ],
+                        "MaxHeight": 8,
+                        "MinTop": 891
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 617,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 617,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 617,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 617
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 638,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 638,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 638,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 638
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 659,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 659,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 659,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 659
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 680,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 680,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 680,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 680
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 701,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 701,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 701,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 701
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 722,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 723,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 722,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 722
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 743,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 743,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 743,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 743
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 764,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 764,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 764,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 764
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 785,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 785,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 785,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 785
+                    },
+                    {
+                        "LineText": "Wind.ng up petition",
+                        "Words": [
+                            {
+                                "WordText": "Wind.ng",
+                                "Left": 182,
+                                "Top": 806,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 807,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 806,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 806
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 827,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 828,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 827,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 827
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 848,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 849,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 848,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 848
+                    },
+                    {
+                        "LineText": "Winding up petition",
+                        "Words": [
+                            {
+                                "WordText": "Winding",
+                                "Left": 182,
+                                "Top": 869,
+                                "Height": 11,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 869,
+                                "Height": 11,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 869,
+                                "Height": 9,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 11,
+                        "MinTop": 869
+                    },
+                    {
+                        "LineText": "Wind;ng up petition",
+                        "Words": [
+                            {
+                                "WordText": "Wind;ng",
+                                "Left": 182,
+                                "Top": 891,
+                                "Height": 10,
+                                "Width": 38
+                            },
+                            {
+                                "WordText": "up",
+                                "Left": 224,
+                                "Top": 891,
+                                "Height": 10,
+                                "Width": 13
+                            },
+                            {
+                                "WordText": "petition",
+                                "Left": 241,
+                                "Top": 891,
+                                "Height": 8,
+                                "Width": 34
+                            }
+                        ],
+                        "MaxHeight": 10,
+                        "MinTop": 891
+                    }
+                ],
+                "HasOverlay": true,
+                "Message": "Total lines: 116"
+            },
+            "TextOrientation": "0",
+            "FileParseExitCode": 1,
+            "ParsedText": "Case Type\tFiled Date Last Updated\t\r\nPetit i\tWinding up Petitic*Ä\t4/26/24\t\r\nCompanies\tPetition\tWinding up Petition\t4/30/24\t\r\nCompanies\tPetition\tWinding up Petition\t4/29/24\t4/30/24\t\r\nCompanies\tPetition\tWinding up Petition\t4/29/24\t\r\nCompanies\tApplication - Notice of Intention to appoint an administrator\t4/29/24\t\r\nCompanies\tApplication - Notice of Appointment to appoint an administrator\t4/29/24\t\r\nCompanies\tPetition\tWinding up Petition\t\r\nCompanies\tPetition\tWinding up Petition\t4Q9/24\t\r\nCompanies\tPetition\tWinding up Petition\t4/29/24\t\r\nCompanies\tPetition\tWinding up Petition\t4/29/24\t4/30/24\t\r\nCompanies\tPetition\tWinding up Petition\t4/29/24\t4/30/24\t\r\nCorn panies\tPetition\tWinding up Petition\t4/29/24\t4/30/24\t\r\nCom n i CS\tPetition\tWinding up Petition\t4/29/24\t\r\nPetition\tUnfair Prejudice\t4/29/24\t\r\nPetit i on\tWinding up Petition\t4/29/24\t4/30/24\t\r\nPart 8 Claim Scheme Of Arrangement\t4,'29/24\t4/30/24\t\r\nPetition - Winding up Petition\t4/29/24\t\r\nPetition - Winding up Petition\t4/29/24\t\r\nApplication\tNotice Of Appointment to appoint an administrator\t\r\nApplication\tNotice Of Appointment to appoint an administrator\t\r\nApplication\tNotice Of Appointment to appoint an adrninistrator\t\r\n- Application\tNotice Of Appointment to appoint an administrator\t\r\n- Application\tAdministration Application\t\r\nPart g Claim - Scheme Of Arrangement\t\r\nPetition\tWinding up petition\t\r\nPetition\tWinding up petition\t\r\nCorn pan i e-s\tpetition\tWinding up petition\t\r\nPetition\tWinding up petition\t\r\nPetition\tWinding up petition\t\r\nie-S\tPetition\tWinding up petition\t\r\npan ie-S\tpetition\tWinding up petition\t\r\npan ieS\tpetition\tWinding up petition\t\r\npetition\tWinding up petition\t\r\npan\tpetition\tWind.ng up petition\t\r\npetition\tWinding up petition\t\r\nCMIIpanies\tPetition\tWinding up petition\t\r\nCorn pan i es\tpetition\tWinding up petition\t4/30/24\t\r\nCorn pan i e-s\tpetition\tWind;ng up petition\t\r\n",
+            "ErrorMessage": "",
+            "ErrorDetails": ""
+        }
+    ],
+    "OCRExitCode": 1,
+    "IsErroredOnProcessing": false,
+    "ProcessingTimeInMilliseconds": "29431",
+    "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}
